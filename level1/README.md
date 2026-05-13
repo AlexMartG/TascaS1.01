@@ -1,3 +1,5 @@
+
+
 # 🗂️ Task S1.01. HTML & CSS — Level 1
 
 Responsive layout built with pure HTML and CSS, fully adapted for desktop, tablet and mobile.
@@ -37,7 +39,7 @@ The goal of this project is to build a complete layout following a given wirefra
 
 | Device | Max width |
 |--------|-----------|
-| Desktop | > 992px |
+| Desktop| > 992px |
 | Tablet | ≤ 992px |
 | Mobile | ≤ 768px |
 
@@ -57,7 +59,7 @@ The main container has a maximum width of **1200px** (`max-width: 1200px`) and i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/AlexMartG/TascaS1.01.git
    ```
 2. Open `index.html` directly in your browser, or use the **Live Server** extension in VS Code to see changes in real time.
 
