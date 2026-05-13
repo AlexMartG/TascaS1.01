@@ -20,7 +20,6 @@ body {
 .header {
     background-color: black;
     padding: 20px;
-    padding-bottom: 20px;
 }
 
 .top-header {
@@ -54,13 +53,12 @@ body {
     background-color: orange;
     padding: 20px;
     margin-top: 16px;
-    font-weight: bold
+    font-weight: bold;
 }
 
 .banner {
     background-color: yellow;
     padding: 14px 32px 14px 16px;
-    padding-left: 16px;
     font-size: 40px;
 }
 
@@ -133,9 +131,7 @@ body {
     .sidebar {
         background-color: #ff4a63;
     }
-
 }
-
 @media (max-width: 768px) {
 
     .articles {
@@ -150,5 +146,4 @@ body {
     .banner {
         font-size: 20px;
     }
-
 }
